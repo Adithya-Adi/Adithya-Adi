@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithya</h1>
-<h3 align="center">I am currently pursuing my Master of Computer Applications (MCA) degree, with a strong focus on developing a solid foundation in computer science and software development.</h3>
+<h3 align="center">a passionate and eager-to-learn software developer. As a recent graduate of MCA, I'm excited to embark on my journey in the world of coding. I have a solid foundation in Nodejs, Java, and Python and a strong desire to expand my skills. I'm open to new opportunities and challenges that will help me grow as a developer. I'm an enthusiastic team player and always strive to contribute positively to any project I participate in.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithya-adi" alt="adithya-adi" /></a> </p>
 
